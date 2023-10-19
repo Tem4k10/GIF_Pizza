@@ -1,0 +1,60 @@
+body{
+background-image: url(https://www.magto.ru/upload/iblock/01a/01a51db1cd16983dcf1e389da1ebabce.jpg);
+}
+
+
+.card_h1 {
+
+
+    color: darkblue;
+}
+
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.subtitle {
+    margin-left: 15px;
+    
+
+}
+
+
+h3{
+color: cornflowerblue;
+background-color: brown;
+}
+
+h1{
+color: rgb(0, 34, 98);
+background-color: brown;
+}
+
+
+.card_img {
+    border: solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+}
+
+
+
+p{
+    margin: 0 auto;
+color: rgb(0, 0, 0);
+background-color: brown;
+width: 500px;
+}
+
+
+
+
+
+
